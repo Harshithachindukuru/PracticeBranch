@@ -7,3 +7,6 @@ body{
     font-family: monospace;
     font-size: 2rem;
 }
+.container{
+    margin: 0rem 3rem;
+}
