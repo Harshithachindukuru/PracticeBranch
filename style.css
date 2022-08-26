@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(250, 235, 215, 0.553);
+}
+#title{
+    color: brown;
+    text-align: center;
+    font-family: monospace;
+    font-size: 2rem;
+}
