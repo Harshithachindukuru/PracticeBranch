@@ -3,10 +3,12 @@ body{
 }
 #title{
     color: brown;
-    text-align: center;
-    font-family: monospace;
+    text-align: right;
+    font-family: sans-serif;
+    font-size: xx-large;
     font-size: 2rem;
     border:1px solid black;
+    
 }
 .container{
     margin: 0rem 3rem;
