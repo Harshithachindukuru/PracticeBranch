@@ -2,11 +2,11 @@ body{
     background-color: rgba(250, 235, 215, 0.553);
 }
 #title{
-    color: brown;
+    color: rgba(165, 42, 42, 0.765);
     text-align: center;
     font-family: monospace;
-    font-size: 2rem;
-    border:1px;
+    font-size: 2.5rem;
+    border:1.2px;
 }
 .container{
     margin: 0rem 3rem;
