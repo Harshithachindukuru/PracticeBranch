@@ -6,6 +6,7 @@ body{
     text-align: center;
     font-family: monospace;
     font-size: 2rem;
+    border:1px;
 }
 .container{
     margin: 0rem 3rem;
